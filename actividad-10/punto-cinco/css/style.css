@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    background-image: linear-gradient(to left,rgb(255, 254, 254),rgb(246, 255, 0));
+
+}
+.contenedor{
+    width: 100%;
+    padding: 10px;
+    height: auto;
+    border-radius: 30px;
+    background-color: rgba(34, 15, 123, 0.759);
+    box-shadow: 0px 0px 20px 0px rgba(110, 110, 110, 0.775);
+    margin: 0px;
+}
+
+.contenedor img{
+    width: 100%;
+    padding: 10px;
+    height: auto;
+    border-radius: 30px; 
+    box-shadow: 0px 0px 20px 0px rgba(110, 110, 110, 0.775);
+}
+
+.main-frame-cal label{
+    font-weight: bold;
+}
+button{
+    float: right;
+}
+.home{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 50px;
+}
